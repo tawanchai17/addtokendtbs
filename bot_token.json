@@ -1,5 +1,8 @@
-
-  {
-  "resellers": [],
-  "tokens": ["7771517773:AAES_ucnDlMrhNVFkCjMv04jEN7KPev8i1I"]
+{
+  "resellers": [
+    6039924260
+  ],
+  "tokens": [
+    "7771517773:AAES_ucnDlMrhNVFkCjMv04jEN7KPev8i1I"
+  ]
 }
