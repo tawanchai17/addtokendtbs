@@ -1,10 +1,12 @@
 {
-  "tokens": [
-    "7983254845:AAHqqOa10ffOpSeQCAraB4REEQCRTC2a8Hg",
-    "7895990393:AAFwBn-gerzNaYls8wENlEa6PFPxWU9qlwo",
-    "902990393:AAFwBn-gerzNaYls8wENlEa6PFPxWU9qlwous886",
-    "90299399:AAFwBn-gerzNaYls8wENlEa6PFPxWU9qlwous886",
-    "8078271103:AAHFvfzXy0Z8S7RSF4yUE-VVazGTq9RtEKc",
-    "7218795532:AAHNjNyGZhn99McRXWAo2bMCruvfcYwfJbI"
+  "resellers": [
+    6039924260,
+    7939710484,
+    17939710484
+  ],
+  "tokens":
+  [
+    "7983254845:AAHqqOa10ffOpSeQCAraB4REEQCRTC2a8Hg"
+  
   ]
 }
